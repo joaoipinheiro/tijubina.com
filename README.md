@@ -1,5 +1,5 @@
-# tijubina.com
+# tijubina.com.br
 
-http://tijubina.com/#next
+https://tijubina.com.br/
 
-## Site desenvolvido por João Victor 
+## Site desenvolvido por João Pinheiro
